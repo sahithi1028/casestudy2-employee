@@ -20,4 +20,3 @@ public class EmployeeRatingController {
 	}
 
 }
-© 2022 GitHub, Inc.
